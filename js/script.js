@@ -13,6 +13,7 @@ for(let i = 0; i <= 100; i++){
         console.log(`FRIZZ`);
         console.log(i); //debug
     }
+    //Controllo se i è multiplo di 5 e scrivo BUZZ
     else if (i % 5 === 0){
         console.log(`BUZZ`);
         console.log(i); //debug
